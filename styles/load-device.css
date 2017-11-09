@@ -1,0 +1,31 @@
+.load-device-modal-div .loading-icon {
+	font-size: 32px;
+	color: #292a5d;
+}
+.load-device-modal-div {
+	text-align: center;
+}
+
+.load-device-modal-div .ant-layout-sider-children span {
+	font-size: 16px !important;
+}
+.load-device-modal-div .ant-layout-sider-children {
+	margin-top: 12px;
+}
+
+.load-device-modal-div .ant-table-wrapper button {
+	margin-left: 5px;
+}
+
+.load-device-modal-div .ant-table-thead tr th{
+	background-color: #757575;
+	font-size: 1em;
+	color: white;
+}
+.load-device-modal-div .parameters-div {
+	display: flex;
+	flex-direction: row;
+}
+.load-device-modal-div .parameters-item {
+	margin-right: 10px;
+}

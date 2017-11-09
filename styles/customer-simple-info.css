@@ -1,0 +1,25 @@
+.customer-home-div .customer-contact-name {
+	font-size: 2.5em;
+	font-family: 'Oswald', sans-serif;
+	color: #292a5d;
+}
+.customer-home-div .customer-email {
+	display: flex;
+	flex-direction: row;
+	align-items: center !important;
+	font-size: 16px;
+	font-family: 'Oswald', sans-serif;
+}
+.customer-home-div .customer-email p {
+	margin-left: 8px;
+}
+.customer-home-div .customer-address {
+	display: flex;
+	flex-direction: row;
+	align-items: center !important;
+	font-size: 16px;
+	font-family: 'Oswald', sans-serif;
+}
+.customer-home-div .customer-address p{
+	margin-left: 8px;
+}

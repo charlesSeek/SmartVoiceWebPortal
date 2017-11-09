@@ -1,0 +1,61 @@
+.contact-us-div {
+	background-image: url(../assets/images/contact-big.jpg); 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	min-height: 800px;
+	padding-bottom: 40px;
+}
+.contact-us-card{
+	width: 50%;
+	margin-left: 40px;
+	margin-top: 200px;
+	display: flex;
+	flex-direction: column;
+}
+.contact-us-card iframe {
+	width: 90%;
+	min-height: 300px;
+	margin-top: 20px;
+}
+.ant-card-head-title {
+	font-size: 2em;
+}
+.sales-inquiry{
+	display: flex ;
+	flex-direction: row ;
+	align-items: center;
+	font-family: 'Oswald',sans-serif;
+	color: #292a5d;
+}
+.existed-support-inquiry{
+	display: flex ;
+	flex-direction: row ;
+	align-items: center;
+	font-family: 'Oswald',sans-serif;
+	color: #292a5d;
+}
+.immediate-inquiry{
+	display: flex ;
+	flex-direction: row ;
+	align-items: center;
+	font-family: 'Oswald',sans-serif;
+	color: #292a5d;
+}
+.margin-20 {
+	margin-top: 20px;
+}
+.contact-us-p-item {
+	margin-left: 5px;
+}
+@media screen and (max-width:960px){
+	.contact-us-card{
+		width: 75%;
+		margin-left: 40px;
+		margin-top: 200px;
+		display: flex;
+		flex-direction: column;
+	}
+}

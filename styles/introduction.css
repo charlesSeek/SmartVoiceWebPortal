@@ -1,0 +1,8 @@
+.introduction-div {
+	padding: 60px 40px;
+}
+.introduction-div p {
+	margin-top: 10px;
+	font-size: 1.8em;
+	font-family: 'Oswald', sans-serif;
+}

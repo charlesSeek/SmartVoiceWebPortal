@@ -1,0 +1,38 @@
+.login-form {
+  width: 100%;
+  margin-top: 40px;
+}
+.login-form-forgot {
+  float: right;
+}
+ .login-form-button {
+  width: 100%;
+  height: 48px;
+}
+.login-form-input-mail{
+	height: 48px;
+	line-height: 48px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	font-size: 18px;
+	justify-content: flex-start;
+}
+.login-form-input-password {
+	height: 48px;
+	line-height: 48px;
+}
+.login-form .ant-input {
+	margin-bottom: 5px;
+	padding-left: 36px !important;
+	font-size: 20px;
+}
+
+.login-form .has-feedback:after {
+	font-size: 20px !important;
+	margin-top: 6px;
+}
+.login-form-err-message {
+	font-size: 16px;
+	color: red;
+}

@@ -1,0 +1,43 @@
+.landing-picture-1 {
+	background-image: url(../assets/images/Landing3.jpg); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+
+.landing-picture-2 {
+	background-image: url(../assets/images/amazon-show.jpg) ; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+}
+.landing-picture-3 {
+	background-image: url(../assets/images/google-home.png) ; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+}
+.landing-picture-4 {
+	background-image: url(../assets/images/homepod.jpeg) ; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+}
+
+.ant-carousel .slick-slide {
+    margin-top: 96px;
+  	min-height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: space-around!important;
+    text-align: center;
+}

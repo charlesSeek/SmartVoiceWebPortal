@@ -1,0 +1,54 @@
+.register-interest-div {
+	background-image: url(../assets/images/register_interest.jpg); 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	min-height: 800px;
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 40px;
+}
+.describe-card {
+	margin-top: 200px;
+	margin-left: 60px;
+	width: 40%;
+}
+.describe-radio-group {
+	display: block;
+}
+.describe-radio-item {
+	display: block;
+	height: 36px;
+	line-height: 36px;
+}
+.describe-checkbox {
+	display: block;
+	height: 36px;
+	line-height: 36px;
+}
+.detail-card {
+	margin-top: 200px;
+	width: 40%;
+	min-height: 600px;
+	margin-left: 60px;
+}
+@media screen and (max-width: 960px) {
+	.register-interest-div {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.describe-card {
+		margin-top: 200px;
+		margin-left: 60px;
+		width: 80%;
+	}
+	.detail-card {
+		margin-top: 60px;
+		width: 80%;
+		min-height: 600px;
+		margin-left: 60px;
+	}
+}

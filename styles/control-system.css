@@ -1,0 +1,23 @@
+
+.control-system-selection-label {
+	padding: 5px 0px;
+}
+.control-system-selection .ant-select {
+	margin-bottom: 10px;
+}
+.control-system-selection-button{
+	margin-top: 40px;
+}
+.control-system-selection-button button {
+	margin-right: 10px;
+}
+.hidden {
+	display: none;
+}
+.add-control-system-button {
+	margin-right: 10px;
+}
+.control-system-error-message {
+	color: red;
+	margin-bottom: 10px;
+}

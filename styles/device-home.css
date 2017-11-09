@@ -1,0 +1,68 @@
+.device-home-div {
+	margin-top: 96px;
+	width: 100%;
+	padding: 0px;
+	min-height: 800px;
+}
+
+.device-home-div .loading-icon {
+	margin-top: 200px;
+	font-size: 64px;
+	color: #292a5d;
+	width: 100%;
+	text-align: center;
+}
+
+.device-home-layout {
+	display: flex;
+	flex-direction: row;
+}
+
+.device-home-div .ant-layout-sider-children span {
+	font-size: 16px !important;
+}
+.device-home-div .ant-layout-sider-children {
+	margin-top: 12px;
+}
+
+.device-home-div .ant-table-wrapper button {
+	margin-left: 5px;
+}
+
+.device-home-div .ant-table-thead tr th{
+	background-color: #757575;
+	font-size: 1em;
+	color: white;
+}
+.device-home-div .parameters-div {
+	display: flex;
+	flex-direction: row;
+}
+.device-home-div .parameters-item {
+	margin-right: 10px;
+}
+.device-home-location-title {
+	font-size: 4em;
+	font-family: 'Oswald', sans-serif;
+	color: #292a5d;
+	margin-bottom: 20px;
+}
+.device-home-back-button{
+	display: block;
+	margin: auto;
+	height: 40px;
+	width: 100px;
+}
+.device-home-add {
+	width: 100%;
+	background-color: #fafafa;
+	border: solid 1px #e0e0e0;
+	border-radius: 10px;
+	padding: 10px 10px;
+	margin-bottom: 20px;
+}
+.device-home-add-button {
+	height: 40px;
+	width: 100px;
+	margin-top: 20px;
+}

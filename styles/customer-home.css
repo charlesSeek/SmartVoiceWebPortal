@@ -1,0 +1,29 @@
+.customer-home-div {
+	margin-top: 96px;
+	width: 100%;
+	padding: 0px;
+	min-height: 800px;
+}
+.customer-home-div .loading-icon {
+	margin-top: 200px;
+	font-size: 64px;
+	color: #292a5d;
+	width: 100%;
+	text-align: center;
+}
+.customer-home-div .ant-layout-sider-children span {
+	font-size: 16px !important;
+}
+.customer-home-div .ant-layout-sider-children {
+	margin-top: 12px;
+}
+.customer-home-layout {
+	display: flex;
+	flex-direction: row;
+}
+.customer-home-back-button {
+	display: block;
+	margin: auto;
+	height: 40px;
+	width: 100px;
+}

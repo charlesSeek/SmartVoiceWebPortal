@@ -1,0 +1,11 @@
+h1 {
+	color: #292a5d !important;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3em !important;
+}
+.animation {
+	opacity: 0;
+}
+.hidden {
+	display: none;
+}

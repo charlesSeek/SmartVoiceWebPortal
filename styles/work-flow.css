@@ -1,0 +1,37 @@
+.work-flow-div {
+	padding: 60px 40px;
+	background: white;
+}
+.time-line {
+	margin: 20px auto !important;
+	width: 60%;
+}
+
+
+.time-line-card {
+	width: 80%;
+	margin-left: 20px;
+}
+.ant-card-head-title {
+	color: #292a5d !important;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em;
+}
+.ant-card-body {
+	font-size: 1.5em;
+}
+.work-flow-image {
+	width: 80%;
+	margin-left: 10%;
+}
+@media screen and (max-width: 900px) {
+	.time-line {
+		margin: 20px auto !important;
+		width: 80%;
+	}
+	.time-line-card {
+		width: 100%;
+		margin-left: 20px;
+	}
+}
+

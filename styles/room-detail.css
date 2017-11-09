@@ -1,0 +1,33 @@
+.room-detail-div {
+	margin-top: 40px;
+}
+.room-detail-div .ant-table-wrapper button {
+	margin-left: 5px;
+}
+.room-detail-div .room-detail-title {
+	font-size: 2em;
+	font-family: 'Oswald', sans-serif;
+	color: #292a5d;
+	margin: 20px 0px;
+}
+.room-detail-div .room-detail-content {
+	width: 100%;
+	background-color: #fafafa;
+	border: solid 1px #e0e0e0;
+	border-radius: 10px;
+	padding: 10px 10px;
+	margin-bottom: 20px;
+}
+.room-detail-div .room-detail-content button {
+	height: 40px;
+	width: 100px;
+}
+.room-detail-div .room-detail-content button:nth-child(2) {
+	margin-left: 10px;
+
+}
+.room-detail-div .ant-table-thead tr th{
+	background-color: #757575;
+	font-size: 1em;
+	color: white;
+}

@@ -1,0 +1,19 @@
+.smartvoice-footer {
+	text-align: center;
+	width: 100%;
+	font-size: 14px;
+	line-height: 36px;
+	display: flex;
+	flex-direction: column;
+	background: #404040;
+}
+.smartvoice-footer p {
+	color: white;
+}
+.smartvoice-footer a {
+	margin-right: 20px;
+}
+.social-container {
+	width: 36px !important;
+	height: 36px !important;
+}
